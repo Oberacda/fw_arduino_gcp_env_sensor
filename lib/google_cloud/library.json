@@ -1,0 +1,11 @@
+{
+    "name": "GoogleCloud",
+    "version": "1.0.0",
+    "authors": {
+        "name": "David Oberacker",
+        "email": "david.oberacker@gmail.com",
+        "url": "https://d4ve.me",
+        "maintainer": true
+    },
+    "frameworks": "arduino"
+}
